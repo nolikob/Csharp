@@ -1,0 +1,9 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX007-OperaceSRetezci\bin\Debug\EX007-OperaceSRetezci.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX007-OperaceSRetezci\bin\Debug\EX007-OperaceSRetezci.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX007-OperaceSRetezci\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX007-OperaceSRetezci\obj\x86\Debug\EX007-OperaceSRetezci.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX007-OperaceSRetezci\obj\x86\Debug\EX007-OperaceSRetezci.pdb
+C:\Users\pavel\Downloads\SEM01\EX007-OperaceSRetezci\bin\Debug\EX007-OperaceSRetezci.exe
+C:\Users\pavel\Downloads\SEM01\EX007-OperaceSRetezci\bin\Debug\EX007-OperaceSRetezci.pdb
+C:\Users\pavel\Downloads\SEM01\EX007-OperaceSRetezci\obj\x86\Debug\EX007-OperaceSRetezci.exe
+C:\Users\pavel\Downloads\SEM01\EX007-OperaceSRetezci\obj\x86\Debug\EX007-OperaceSRetezci.pdb

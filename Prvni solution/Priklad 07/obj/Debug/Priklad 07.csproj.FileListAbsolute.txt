@@ -1,0 +1,6 @@
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\bin\Debug\Priklad 07.exe.config
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\bin\Debug\Priklad 07.exe
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\bin\Debug\Priklad 07.pdb
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\obj\Debug\Priklad 07.csproj.CoreCompileInputs.cache
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\obj\Debug\Priklad 07.exe
+C:\Users\cepel\Documents\Visual Studio 2017\Projects\Prvni solution\Priklad 07\obj\Debug\Priklad 07.pdb

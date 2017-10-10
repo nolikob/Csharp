@@ -1,0 +1,10 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX004-RealnePromenne\bin\Debug\EX004-RealnePromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX004-RealnePromenne\bin\Debug\EX004-RealnePromenne.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX004-RealnePromenne\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX004-RealnePromenne\obj\x86\Debug\EX004-RealnePromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX004-RealnePromenne\obj\x86\Debug\EX004-RealnePromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX004-RealnePromenne\bin\Debug\EX004-RealnePromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX004-RealnePromenne\bin\Debug\EX004-RealnePromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX004-RealnePromenne\obj\x86\Debug\EX004-RealnePromenne.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Downloads\SEM01\EX004-RealnePromenne\obj\x86\Debug\EX004-RealnePromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX004-RealnePromenne\obj\x86\Debug\EX004-RealnePromenne.pdb

@@ -1,0 +1,10 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX005-MatematickeOperace\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX005-MatematickeOperace\bin\Debug\EX005-MatematickeOperace.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX005-MatematickeOperace\bin\Debug\EX005-MatematickeOperace.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX005-MatematickeOperace\obj\x86\Debug\EX005-MatematickeOperace.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX005-MatematickeOperace\obj\x86\Debug\EX005-MatematickeOperace.pdb
+C:\Users\pavel\Downloads\SEM01\EX005-MatematickeOperace\bin\Debug\EX005-MatematickeOperace.exe
+C:\Users\pavel\Downloads\SEM01\EX005-MatematickeOperace\bin\Debug\EX005-MatematickeOperace.pdb
+C:\Users\pavel\Downloads\SEM01\EX005-MatematickeOperace\obj\x86\Debug\EX005-MatematickeOperace.exe
+C:\Users\pavel\Downloads\SEM01\EX005-MatematickeOperace\obj\x86\Debug\EX005-MatematickeOperace.pdb
+C:\Users\pavel\Downloads\SEM01\EX005-MatematickeOperace\obj\x86\Debug\EX005-MatematickeOperace.csprojResolveAssemblyReference.cache

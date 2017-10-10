@@ -1,0 +1,10 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX003-CelociselnePromenne\bin\Debug\EX003-CelociselnePromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX003-CelociselnePromenne\bin\Debug\EX003-CelociselnePromenne.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\EX003-CelociselnePromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\EX003-CelociselnePromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX003-CelociselnePromenne\bin\Debug\EX003-CelociselnePromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX003-CelociselnePromenne\bin\Debug\EX003-CelociselnePromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\EX003-CelociselnePromenne.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Downloads\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\EX003-CelociselnePromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX003-CelociselnePromenne\obj\x86\Debug\EX003-CelociselnePromenne.pdb

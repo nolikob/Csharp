@@ -1,0 +1,5 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX001-FirstProgram\bin\Debug\EX001-FirstProgram.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX001-FirstProgram\bin\Debug\EX001-FirstProgram.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX001-FirstProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX001-FirstProgram\obj\x86\Debug\EX001-FirstProgram.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX001-FirstProgram\obj\x86\Debug\EX001-FirstProgram.pdb

@@ -1,0 +1,10 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX002-PouzitiPromenne\bin\Debug\EX002-PouzitiPromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX002-PouzitiPromenne\bin\Debug\EX002-PouzitiPromenne.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\EX002-PouzitiPromenne.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\EX002-PouzitiPromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX002-PouzitiPromenne\bin\Debug\EX002-PouzitiPromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX002-PouzitiPromenne\bin\Debug\EX002-PouzitiPromenne.pdb
+C:\Users\pavel\Downloads\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\EX002-PouzitiPromenne.csprojResolveAssemblyReference.cache
+C:\Users\pavel\Downloads\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\EX002-PouzitiPromenne.exe
+C:\Users\pavel\Downloads\SEM01\EX002-PouzitiPromenne\obj\x86\Debug\EX002-PouzitiPromenne.pdb

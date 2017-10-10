@@ -1,0 +1,9 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX006-StringMethods\bin\Debug\EX006-StringMethods.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX006-StringMethods\bin\Debug\EX006-StringMethods.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX006-StringMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX006-StringMethods\obj\x86\Debug\EX006-StringMethods.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX006-StringMethods\obj\x86\Debug\EX006-StringMethods.pdb
+C:\Users\pavel\Downloads\SEM01\EX006-StringMethods\bin\Debug\EX006-StringMethods.exe
+C:\Users\pavel\Downloads\SEM01\EX006-StringMethods\bin\Debug\EX006-StringMethods.pdb
+C:\Users\pavel\Downloads\SEM01\EX006-StringMethods\obj\x86\Debug\EX006-StringMethods.exe
+C:\Users\pavel\Downloads\SEM01\EX006-StringMethods\obj\x86\Debug\EX006-StringMethods.pdb

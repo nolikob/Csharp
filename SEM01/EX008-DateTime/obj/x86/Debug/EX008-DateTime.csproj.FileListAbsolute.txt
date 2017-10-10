@@ -1,0 +1,9 @@
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX008-DateTime\bin\Debug\EX008-DateTime.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX008-DateTime\bin\Debug\EX008-DateTime.pdb
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX008-DateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX008-DateTime\obj\x86\Debug\EX008-DateTime.exe
+c:\users\hartman\documents\visual studio 2010\Projects\SEM01\EX008-DateTime\obj\x86\Debug\EX008-DateTime.pdb
+C:\Users\pavel\Downloads\SEM01\EX008-DateTime\obj\x86\Debug\EX008-DateTime.exe
+C:\Users\pavel\Downloads\SEM01\EX008-DateTime\obj\x86\Debug\EX008-DateTime.pdb
+C:\Users\pavel\Downloads\SEM01\EX008-DateTime\bin\Debug\EX008-DateTime.exe
+C:\Users\pavel\Downloads\SEM01\EX008-DateTime\bin\Debug\EX008-DateTime.pdb
