@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace XA01
 {
@@ -60,10 +61,16 @@ namespace XA01
         /// </summary>
         public void AllocateProgrammers(List<Programmer> programmers)
         {
-            foreach (Programmer prog in programmers)
+            IEnumerable<Programmer> sortedProgrammers = from programmer in programmers
+                                                        orderby programmer.Speed 
+                                                        //orderby programmer.Project.Price
+                                                        select programmer;
+            List<Programmer> sortedOnes = sortedProgrammers.ToList();
+            for (int i = 0; i < Capacity; i++)
             {
-
+                Programmers.Add(sortedOnes[i]);
             }
+            sortedOnes.RemoveRange(0, Capacity);
         }
 
         /// <summary>
@@ -91,12 +98,15 @@ namespace XA01
         /// </summary>
         public void CheckProgrammers()
         {
-            foreach (Project finished in ProjectsDone)
+            
+            foreach (Programmer prog in Programmers)
             {
-                foreach (Programmer prog in Programmers)
+                foreach (Project finished in ProjectsDone)
                 {
                     if (prog.ProjectName == finished.Name)
                     {
+                        // Pomocny log
+                        Console.WriteLine("Programator {0} dokoncil projekt {1} a je bez projektu", prog.Name, prog.ProjectName);
                         prog.ClearProject();
                     }
                 }
@@ -113,8 +123,37 @@ namespace XA01
         ///           nedodelane prace.
         /// </summary>
         public void AssignNewProjects()
-        {
-
+        {   /*
+            IEnumerable<Programmer> withoutProject = from programmer in Programmers
+                                                 where programmer.Project == null
+                                                 select programmer;
+            IEnumerable<Project> yetToBeDone = from project in ProjectsCurrent
+                                               orderby project.ManDays - project.ManDaysDone
+                                               select project;
+                                               */
+            if (ProjectsWaiting.Count != 0)
+            {
+                foreach (Programmer prog in Programmers)
+                {
+                    if (prog.Project == null)
+                    {
+                        prog.AssignProject(ProjectsWaiting[0]);
+                        // Pomocny log
+                        Console.WriteLine("Programator {0} dostal projekt {1} z kolekce Waiting", prog.Name, prog.ProjectName);
+                    }
+                }
+            } else
+            {
+                foreach (Programmer prog in Programmers)
+                {
+                    if (prog.Project == null)
+                    {
+                        prog.AssignProject(ProjectsCurrent[0]);
+                        // Pomocny log
+                        Console.WriteLine("Programator {0} dostal projekt {1} z kolekce Current", prog.Name, prog.ProjectName);
+                    }
+                }
+            }
         }
 
         /// <summary>
